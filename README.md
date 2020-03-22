@@ -1,5 +1,5 @@
 # Bigdesk
-now it can use to Elasticsearch 6.x (tested)
+now it can use to Elasticsearch 6.x (tested),
 7.x maybe also can work (no test)
 
 Live charts and statistics for Elasticsearch cluster.
