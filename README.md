@@ -1,6 +1,13 @@
 # Bigdesk
+now it can use to Elasticsearch 6.x (tested)
+7.x maybe also can work (no test)
 
 Live charts and statistics for Elasticsearch cluster.
+
+## quikstart
+cd to bigdesk dir
+nohup python -m SimpleHTTPServer 8000 > /dev/null 2>&1 &
+http://localhost:8000
 
 ## Contents
 
